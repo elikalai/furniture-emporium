@@ -1,0 +1,30 @@
+.header {
+    color: red;
+}
+
+.item1 {
+   color: blueviolet;
+   margin: 30px;
+   padding: 10px;
+}
+
+.item2 {
+    color: orange;
+    margin: 30px;
+    padding: 10px;
+}
+
+.item3 {
+    color: blue;
+    margin: 30px;
+    padding: 10px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    font-style: italic;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin: 20px;
+}
